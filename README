@@ -1,0 +1,5 @@
+Key Features:
+✅ Uses React state (useState) to manage the list and input field.
+✅ Prevents empty items from being added.
+✅ Styled with Tailwind CSS for a clean, modern UI.
+✅ Provides clear UI feedback when the list is empty.
